@@ -2,7 +2,7 @@
 
   
 
-This is a collection of Intune configuration profiles.
+This is a collection of Intune configuration profiles. It was birthed 2/4/2024 in a haste to provide the community with something tangible.
 
 ## Configuration Profiles: 
 
